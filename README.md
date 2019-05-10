@@ -1,6 +1,19 @@
 # SolarSystem
 
 # Guide
+Requires VRTK + Oculus SDK for Unity (Oculus Integration)
+
+# Note
+This package contains CC 4.0 (https://creativecommons.org/licenses/by/4.0/) textures
+*2k_mars.jpg
+*2k_mercury.jpg
+*8k_earth_clouds.jpg
+*8k_earth_daymap.jpg
+*8k_earth_normal_map.tif
+*8k_earth_specular_map.tif
+*8k_moon.jpg
+*8k_sun.jpg
+*8k_venus_surface.jpg
 
 # Version
 aplha state v.0.5a
