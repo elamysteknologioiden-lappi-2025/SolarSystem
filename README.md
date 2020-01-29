@@ -1,4 +1,5 @@
 # SolarSystem
+Unity simulation of the solar system for VR.
 
 # Guide
 Requires VRTK + Oculus SDK for Unity (Oculus Integration)
@@ -16,7 +17,7 @@ This package contains CC 4.0 (https://creativecommons.org/licenses/by/4.0/) text
 * 8k_venus_surface.jpg
 
 # Version
-aplha state v.0.5a
+v1.0.0
 
 # Elämysteknologioiden Lappi 2025
 
